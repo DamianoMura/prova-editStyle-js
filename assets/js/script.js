@@ -1,4 +1,5 @@
 console.log(document.getElementsByClassName("box"));
+console.log("for each box : ");
 //console.log(document.getElementsByClassName("box").length)
 function swapColors(){
 for(let x=0 ; x<document.getElementsByClassName("box").length ; x++){
